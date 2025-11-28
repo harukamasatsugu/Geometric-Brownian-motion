@@ -15,9 +15,7 @@ We estimate the **daily drift (α)** and **volatility (σ)** from historical dat
 
 GBM is defined as:
 
-[
-dS_t = \alpha S_t , dt + \sigma S_t , dW_t
-]
+𝑑𝑆(𝑡)=𝛼𝑆(𝑡)𝑑𝑡+𝜎𝑆(𝑡)𝑑𝑊(𝑡)
 
 Where:
 
